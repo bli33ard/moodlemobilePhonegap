@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "eworks.moodlemobile"
+        id        = "ss3.moodlemobile"
         versionCode = "3"
         version   = "1">
-    <name>MP Moodle Mobile</name>
+    <name>Moodle SkadSchool3</name>
 
     <description>
-        MP Moodle Mobile
+        Moodle SkadSchool3
     </description>
 
-    <author href="http://eworks.edu.au" email="eric.kuncoro@eworks.edu.au">
-        Eric Kuncoro
+    <author href="http://eworks.edu.au" email="bli33ardkit@gmail.com">
+        Valentine Sotsenko
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
